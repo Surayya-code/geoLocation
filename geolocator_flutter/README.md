@@ -1,4 +1,4 @@
-# geolocator_flutter
+# geolocator_weatherApp_flutter
 
 A new Flutter project.
 
@@ -6,7 +6,8 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 # Use Packages:
-## geolocator
+## *geolocator
+## *flutter_spinkit
 
 A few resources to get you started if this is your first Flutter project:
 
